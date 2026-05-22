@@ -1,0 +1,5 @@
+{
+    "host": "https://raw.githubusercontent.com/jterry60/test/main/img/OIP-C.jpg",
+    "proxy": "socks://127.0.0.1:7897",
+    "img":"OIP-C.jpg"
+}
